@@ -1,0 +1,701 @@
+Group,Gene
+?,TMSB4X
+?,CDKN2A
+?,IL32
+?,TMSB10
+?,FTH1
+?,CST6
+?,KRT7
+?,CLTB
+?,SAA1
+?,TNFRSF12A
+?,S100A10
+?,ALDH1A3
+?,PMEPA1
+?,RPS27L
+?,OCIAD2
+?,HLA-B
+?,CD24
+?,KRT23
+?,ANXA3
+?,SAA2
+?,PLAU
+?,FN1
+?,HLA-A
+?,TPM1
+?,MMP7
+?,KRT17
+?,HLA-C
+?,CD151
+?,MYL12A
+?,C15orf48
+?,MYL12B
+?,MYL6
+?,CDKN2B
+?,B2M
+?,CDKN1A
+?,SH3BGRL3
+?,CAMK2N1
+?,CFL1
+?,ISG15
+?,TIMP2
+?,TAGLN2
+?,IFI27
+?,SAT1
+?,KRT6A
+?,DSG2
+?,RHOC
+?,PHLDA3
+?,SPINT1
+?,PPP1R14B
+?,IFI6
+Basal resting,KRT15
+Basal resting,DST
+Basal resting,KRT5
+Basal resting,RPLP1
+Basal resting,S100A2
+Basal resting,RPS2
+Basal resting,COL17A1
+Basal resting,BCAM
+Basal resting,ATP1B3
+Basal resting,RPL12
+Basal resting,ALDH3A1
+Basal resting,PDLIM1
+Basal resting,RPL28
+Basal resting,RPL13
+Basal resting,EEF1A1
+Basal resting,CAV1
+Basal resting,LAMB3
+Basal resting,ZFP36L2
+Basal resting,RPL32
+Basal resting,RPL10A
+Basal resting,RPS3
+Basal resting,PLP2
+Basal resting,RPS5
+Basal resting,RACK1
+Basal resting,RPL5
+Basal resting,RPL3
+Basal resting,NAP1L1
+Basal resting,RPL19
+Basal resting,RPS9
+Basal resting,RPL10
+Basal resting,NPM1
+Basal resting,IGFBP2
+Basal resting,RPS6
+Basal resting,TP63
+Basal resting,ITGB4
+Basal resting,S100A10
+Basal resting,RPL14
+Basal resting,KRT17
+Basal resting,CBR1
+Basal resting,RPL13A
+Basal resting,RPS18
+Basal resting,RPS15
+Basal resting,RPS12
+Basal resting,BTF3
+Basal resting,RPL29
+Basal resting,RPL23
+Basal resting,RPL18A
+Basal resting,RPL7A
+Basal resting,RPS25
+Basal resting,RPL11
+Club (nasal),WARS1
+Club (nasal),B2M
+Club (nasal),HLA-B
+Club (nasal),PSME2
+Club (nasal),HLA-DRA
+Club (nasal),HLA-C
+Club (nasal),CD74
+Club (nasal),HLA-A
+Club (nasal),PLAAT4
+Club (nasal),IDO1
+Club (nasal),HLA-DRB1
+Club (nasal),PSMB9
+Club (nasal),HLA-DPA1
+Club (nasal),MDK
+Club (nasal),TMSB10
+Club (nasal),IFITM3
+Club (nasal),SAT1
+Club (nasal),LAP3
+Club (nasal),CXCL9
+Club (nasal),HLA-E
+Club (nasal),BST2
+Club (nasal),GBP1
+Club (nasal),SERPING1
+Club (nasal),KRT23
+Club (nasal),HLA-DPB1
+Club (nasal),HLA-DQB1
+Club (nasal),HLA-DQA1
+Club (nasal),CXCL10
+Club (nasal),TNFSF10
+Club (nasal),TAP1
+Club (nasal),PSMB8
+Club (nasal),LY6E
+Club (nasal),TGM2
+Club (nasal),GBP2
+Club (nasal),ISG20
+Club (nasal),RARRES1
+Club (nasal),GBP4
+Club (nasal),IFIT3
+Club (nasal),CXCL11
+Club (nasal),IGFBP3
+Club (nasal),HLA-F
+Club (nasal),HLA-DMA
+Club (nasal),SAA2
+Club (nasal),TMSB4X
+Club (nasal),GBP5
+Club (nasal),STAT1
+Club (nasal),ISG15
+Club (nasal),IL32
+Club (nasal),IRF1
+Club (nasal),UBE2L6
+Club (non-nasal),SCGB3A1
+Club (non-nasal),SLPI
+Club (non-nasal),WFDC2
+Club (non-nasal),BPIFB1
+Club (non-nasal),CP
+Club (non-nasal),PIGR
+Club (non-nasal),SCGB1A1
+Club (non-nasal),VMO1
+Club (non-nasal),CXCL17
+Club (non-nasal),XBP1
+Club (non-nasal),CST3
+Club (non-nasal),LCN2
+Club (non-nasal),S100P
+Club (non-nasal),LYPD2
+Club (non-nasal),AGR2
+Club (non-nasal),CYP2F1
+Club (non-nasal),MUC1
+Club (non-nasal),CYB5A
+Club (non-nasal),C3
+Club (non-nasal),CCN2
+Club (non-nasal),RARRES1
+Club (non-nasal),MSMB
+Club (non-nasal),MUC5B
+Club (non-nasal),MDK
+Club (non-nasal),TMC5
+Club (non-nasal),KRT7
+Club (non-nasal),PSCA
+Club (non-nasal),CD74
+Club (non-nasal),LY6E
+Club (non-nasal),SSR4
+Club (non-nasal),CCN1
+Club (non-nasal),CD55
+Club (non-nasal),FAM3D
+Club (non-nasal),PLAC8
+Club (non-nasal),BPIFA1
+Club (non-nasal),TGM2
+Club (non-nasal),CEACAM6
+Club (non-nasal),DUSP5
+Club (non-nasal),CXCL1
+Club (non-nasal),FOLR1
+Club (non-nasal),ELF3
+Club (non-nasal),PLEKHS1
+Club (non-nasal),VAMP8
+Club (non-nasal),CTSC
+Club (non-nasal),HLA-DRA
+Club (non-nasal),HLA-DRB1
+Club (non-nasal),PLAAT4
+Club (non-nasal),NR4A1
+Club (non-nasal),NCOA7
+Club (non-nasal),KLF6
+Deuterosomal,CCNO
+Deuterosomal,TUBA1B
+Deuterosomal,HES6
+Deuterosomal,BTG3
+Deuterosomal,H2AZ1
+Deuterosomal,FOXJ1
+Deuterosomal,CDC20B
+Deuterosomal,PTGES3
+Deuterosomal,YWHAH
+Deuterosomal,KIF9
+Deuterosomal,PCM1
+Deuterosomal,RANBP1
+Deuterosomal,NUCB2
+Deuterosomal,CHCHD2
+Deuterosomal,CARHSP1
+Deuterosomal,PSENEN
+Deuterosomal,HNRNPAB
+Deuterosomal,MDM2
+Deuterosomal,DYNLL1
+Deuterosomal,HSP90AA1
+Deuterosomal,NUDC
+Deuterosomal,NAP1L1
+Deuterosomal,CAPS
+Deuterosomal,ZMYND10
+Deuterosomal,MYB
+Deuterosomal,LYZ
+Deuterosomal,PTMA
+Deuterosomal,CEP78
+Deuterosomal,C9orf116
+Deuterosomal,CETN2
+Deuterosomal,MORN2
+Deuterosomal,C11orf88
+Deuterosomal,TUBB4B
+Deuterosomal,HMGN2
+Deuterosomal,IFT22
+Deuterosomal,CTXN1
+Deuterosomal,RIBC2
+Deuterosomal,DNALI1
+Deuterosomal,PSIP1
+Deuterosomal,PIFO
+Deuterosomal,C5orf49
+Deuterosomal,LRRIQ1
+Deuterosomal,CFAP126
+Deuterosomal,CDK1
+Deuterosomal,NPHP1
+Deuterosomal,TAGLN2
+Deuterosomal,CCDC34
+Deuterosomal,TMEM14B
+Deuterosomal,CALM3
+Deuterosomal,AGR3
+Goblet (nasal),CEACAM6
+Goblet (nasal),LCN2
+Goblet (nasal),TMSB4X
+Goblet (nasal),KRT7
+Goblet (nasal),SAT1
+Goblet (nasal),C15orf48
+Goblet (nasal),C3
+Goblet (nasal),RAB11FIP1
+Goblet (nasal),MUC4
+Goblet (nasal),TMSB10
+Goblet (nasal),MUC1
+Goblet (nasal),CD24
+Goblet (nasal),SAA1
+Goblet (nasal),SAA2
+Goblet (nasal),GDF15
+Goblet (nasal),MACC1
+Goblet (nasal),RPS27L
+Goblet (nasal),WFDC2
+Goblet (nasal),PIGR
+Goblet (nasal),MUC20
+Goblet (nasal),CXCL1
+Goblet (nasal),SLC34A2
+Goblet (nasal),PSCA
+Goblet (nasal),LYPD2
+Goblet (nasal),SRD5A3
+Goblet (nasal),KRT23
+Goblet (nasal),PDZK1IP1
+Goblet (nasal),CLDN7
+Goblet (nasal),CYBA
+Goblet (nasal),CXCL8
+Goblet (nasal),ALDH1A3
+Goblet (nasal),FTH1
+Goblet (nasal),CXCL2
+Goblet (nasal),CXCL17
+Goblet (nasal),GSN
+Goblet (nasal),MARCKSL1
+Goblet (nasal),ICAM1
+Goblet (nasal),GOLM1
+Goblet (nasal),GPRC5A
+Goblet (nasal),BPIFB1
+Goblet (nasal),NFKBIA
+Goblet (nasal),CXCL3
+Goblet (nasal),MYL6
+Goblet (nasal),EDN1
+Goblet (nasal),ATP1B1
+Goblet (nasal),PTTG1IP
+Goblet (nasal),ANXA3
+Goblet (nasal),SOX4
+Goblet (nasal),PRSS22
+Goblet (nasal),ASAH1
+Hillock-like,S100A2
+Hillock-like,S100A10
+Hillock-like,IGFBP7
+Hillock-like,KRT17
+Hillock-like,LGALS1
+Hillock-like,CALD1
+Hillock-like,TNFRSF12A
+Hillock-like,PFN1
+Hillock-like,TMSB10
+Hillock-like,TINAGL1
+Hillock-like,TMSB4X
+Hillock-like,SH3BGRL3
+Hillock-like,PMEPA1
+Hillock-like,SFN
+Hillock-like,MT2A
+Hillock-like,TPM1
+Hillock-like,CAV1
+Hillock-like,RBP1
+Hillock-like,IGFBP2
+Hillock-like,ACTN1
+Hillock-like,ITGB6
+Hillock-like,TPM2
+Hillock-like,PDLIM1
+Hillock-like,CTSH
+Hillock-like,IGFBP6
+Hillock-like,ITGB1
+Hillock-like,COL17A1
+Hillock-like,LAMC2
+Hillock-like,PKM
+Hillock-like,ANXA2
+Hillock-like,CDH3
+Hillock-like,MARCKS
+Hillock-like,MMP13
+Hillock-like,SPATS2L
+Hillock-like,FYB1
+Hillock-like,CCND2
+Hillock-like,LAMB3
+Hillock-like,PSAP
+Hillock-like,MYL9
+Hillock-like,CFL1
+Hillock-like,VIM
+Hillock-like,FLNA
+Hillock-like,ARPC2
+Hillock-like,TIMP1
+Hillock-like,CLTB
+Hillock-like,OCIAD2
+Hillock-like,FHL2
+Hillock-like,CD59
+Hillock-like,GADD45A
+Hillock-like,KRT23
+Ionocyte,ATP6V0B
+Ionocyte,CD9
+Ionocyte,H3-3B
+Ionocyte,TMPRSS11E
+Ionocyte,TFF3
+Ionocyte,GNAS
+Ionocyte,ASCL3
+Ionocyte,CALM2
+Ionocyte,KRT8
+Ionocyte,IGFBP5
+Ionocyte,KRT7
+Ionocyte,CFTR
+Ionocyte,AKR1B1
+Ionocyte,CD24
+Ionocyte,TMEM61
+Ionocyte,HEPACAM2
+Ionocyte,KRT18
+Ionocyte,FOXP1
+Ionocyte,APLP2
+Ionocyte,TMSB4X
+Ionocyte,CALM1
+Ionocyte,TFCP2L1
+Ionocyte,EPCAM
+Ionocyte,GOLM1
+Ionocyte,ATP1A1
+Ionocyte,SEMA3C
+Ionocyte,ID3
+Ionocyte,TPD52
+Ionocyte,SEC11C
+Ionocyte,ATP6V1A
+Ionocyte,KIT
+Ionocyte,ATP6V1F
+Ionocyte,CLNK
+Ionocyte,RASSF6
+Ionocyte,ITPR2
+Ionocyte,FOXI1
+Ionocyte,ARL6IP5
+Ionocyte,ANKRD12
+Ionocyte,H3-3A
+Ionocyte,MARCKSL1
+Ionocyte,MUC20
+Ionocyte,DGKI
+Ionocyte,DHRS7
+Ionocyte,HES6
+Ionocyte,ITPRID2
+Ionocyte,KCNMA1
+Ionocyte,CNN3
+Ionocyte,FTH1
+Ionocyte,PDE1C
+Ionocyte,POSTN
+Multiciliated (non-nasal),CAPS
+Multiciliated (non-nasal),RSPH1
+Multiciliated (non-nasal),TUBB4B
+Multiciliated (non-nasal),C9orf24
+Multiciliated (non-nasal),TPPP3
+Multiciliated (non-nasal),C20orf85
+Multiciliated (non-nasal),C1orf194
+Multiciliated (non-nasal),PIFO
+Multiciliated (non-nasal),TUBA1A
+Multiciliated (non-nasal),C9orf116
+Multiciliated (non-nasal),MORN2
+Multiciliated (non-nasal),SNTN
+Multiciliated (non-nasal),ODF3B
+Multiciliated (non-nasal),DYNLL1
+Multiciliated (non-nasal),FAM183A
+Multiciliated (non-nasal),HSP90AA1
+Multiciliated (non-nasal),C5orf49
+Multiciliated (non-nasal),CAPSL
+Multiciliated (non-nasal),CALM1
+Multiciliated (non-nasal),CETN2
+Multiciliated (non-nasal),AGR3
+Multiciliated (non-nasal),DYNLRB2
+Multiciliated (non-nasal),MORN5
+Multiciliated (non-nasal),PRDX5
+Multiciliated (non-nasal),CCDC170
+Multiciliated (non-nasal),ROPN1L
+Multiciliated (non-nasal),PSENEN
+Multiciliated (non-nasal),AC007906.2
+Multiciliated (non-nasal),LRRIQ1
+Multiciliated (non-nasal),TMEM190
+Multiciliated (non-nasal),DNALI1
+Multiciliated (non-nasal),CCDC146
+Multiciliated (non-nasal),CFAP53
+Multiciliated (non-nasal),OMG
+Multiciliated (non-nasal),FAM92B
+Multiciliated (non-nasal),ZMYND10
+Multiciliated (non-nasal),CIB1
+Multiciliated (non-nasal),UFC1
+Multiciliated (non-nasal),IFT57
+Multiciliated (non-nasal),IK
+Multiciliated (non-nasal),FAM229B
+Multiciliated (non-nasal),CFAP126
+Multiciliated (non-nasal),SPA17
+Multiciliated (non-nasal),CCDC78
+Multiciliated (non-nasal),BASP1
+Multiciliated (non-nasal),SMIM22
+Multiciliated (non-nasal),C9orf135
+Multiciliated (non-nasal),KIF9
+Multiciliated (non-nasal),DNAH5
+Multiciliated (non-nasal),NME5
+Neuroendocrine,SEC11C
+Neuroendocrine,AZGP1
+Neuroendocrine,IGFBP5
+Neuroendocrine,TFF3
+Neuroendocrine,CALCA
+Neuroendocrine,ASCL1
+Neuroendocrine,PHGR1
+Neuroendocrine,HOXB5
+Neuroendocrine,TMEM61
+Neuroendocrine,PCSK1N
+Neuroendocrine,KRT18
+Neuroendocrine,RAB3B
+Neuroendocrine,SCG3
+Neuroendocrine,SST
+Neuroendocrine,SCG2
+Neuroendocrine,CACNA1A
+Neuroendocrine,TMEM176A
+Neuroendocrine,ESPL1
+Neuroendocrine,CALM1
+Neuroendocrine,KRT8
+Neuroendocrine,SELENOW
+Neuroendocrine,CPE
+Neuroendocrine,NAXE
+Neuroendocrine,BTG1
+Neuroendocrine,HES6
+Neuroendocrine,C4orf48
+Neuroendocrine,MAP1B
+Neuroendocrine,HSP90B1
+Neuroendocrine,ST18
+Neuroendocrine,MS4A8
+Neuroendocrine,SYT1
+Neuroendocrine,CNKSR3
+Neuroendocrine,MIF
+Neuroendocrine,OCIAD2
+Neuroendocrine,SCN3A
+Neuroendocrine,UCP2
+Neuroendocrine,C2CD4B
+Neuroendocrine,TMEM176B
+Neuroendocrine,TUBA1A
+Neuroendocrine,CD24
+Neuroendocrine,QPCT
+Neuroendocrine,CAMK2N1
+Neuroendocrine,IGSF8
+Neuroendocrine,PROX1
+Neuroendocrine,MAOB
+Neuroendocrine,DPYSL3
+Neuroendocrine,CHGB
+Neuroendocrine,TAGLN3
+Neuroendocrine,NR2F2
+Neuroendocrine,ID2
+Suprabasal,SERPINB3
+Suprabasal,CSTA
+Suprabasal,HSPB1
+Suprabasal,TXN
+Suprabasal,RPS18
+Suprabasal,RPS24
+Suprabasal,RPS6
+Suprabasal,RPL28
+Suprabasal,KRT19
+Suprabasal,RPL37A
+Suprabasal,RPL13A
+Suprabasal,RPL23
+Suprabasal,AQP3
+Suprabasal,RPL27A
+Suprabasal,RPL18
+Suprabasal,RPS14
+Suprabasal,SPINK5
+Suprabasal,RPL30
+Suprabasal,RPL34
+Suprabasal,RPL10A
+Suprabasal,RPL32
+Suprabasal,RPS11
+Suprabasal,RPL7
+Suprabasal,RPL39
+Suprabasal,EGR1
+Suprabasal,RPS28
+Suprabasal,RPS15
+Suprabasal,RPL21
+Suprabasal,RPL41
+Suprabasal,RPL37
+Suprabasal,RPS3A
+Suprabasal,RPS25
+Suprabasal,RPL35
+Suprabasal,RPLP2
+Suprabasal,MT-CO3
+Suprabasal,RPLP0
+Suprabasal,RPL13
+Suprabasal,RPL26
+Suprabasal,TXNIP
+Suprabasal,RPL6
+Suprabasal,RPS21
+Suprabasal,RPL9
+Suprabasal,RPL10
+Suprabasal,RPS27
+Suprabasal,RPL36
+Suprabasal,RPS4X
+Suprabasal,MT-CO1
+Suprabasal,RPL14
+Suprabasal,RPL29
+Suprabasal,RPL3
+pre-TB secretory,LCN2
+pre-TB secretory,RARRES1
+pre-TB secretory,SAA1
+pre-TB secretory,C3
+pre-TB secretory,TGM2
+pre-TB secretory,SAA2
+pre-TB secretory,PLAAT4
+pre-TB secretory,CEACAM6
+pre-TB secretory,CXCL8
+pre-TB secretory,B2M
+pre-TB secretory,TMSB10
+pre-TB secretory,KRT23
+pre-TB secretory,SAT1
+pre-TB secretory,LY6E
+pre-TB secretory,MDK
+pre-TB secretory,BPIFA1
+pre-TB secretory,HLA-C
+pre-TB secretory,CXCL17
+pre-TB secretory,CD74
+pre-TB secretory,TMSB4X
+pre-TB secretory,HLA-DRB1
+pre-TB secretory,KRT7
+pre-TB secretory,CXCL1
+pre-TB secretory,MUC1
+pre-TB secretory,IFITM3
+pre-TB secretory,HLA-A
+pre-TB secretory,CXCL2
+pre-TB secretory,FTH1
+pre-TB secretory,EDN1
+pre-TB secretory,VMO1
+pre-TB secretory,HLA-B
+pre-TB secretory,WFDC2
+pre-TB secretory,HLA-DRA
+pre-TB secretory,MSMB
+pre-TB secretory,TMEM45A
+pre-TB secretory,SLC34A2
+pre-TB secretory,ICAM1
+pre-TB secretory,CYBA
+pre-TB secretory,BCL2A1
+pre-TB secretory,SLPI
+pre-TB secretory,CXCL3
+pre-TB secretory,PDZK1IP1
+pre-TB secretory,PIGR
+pre-TB secretory,C15orf48
+pre-TB secretory,RPS27L
+pre-TB secretory,AGR2
+pre-TB secretory,BPIFB1
+pre-TB secretory,PLAU
+pre-TB secretory,ALDH1A3
+pre-TB secretory,PSCA
+viral,N
+viral,ORF10
+viral,ORF1ab
+viral,ORF7a
+viral,S
+viral,M
+viral,N-minus
+viral,ORF8
+viral,ORF6
+viral,JUN
+viral,KLF6
+viral,ATF3
+viral,ORF3a
+viral,NFKBIA
+viral,IER2
+viral,SQSTM1
+viral,EGR1
+viral,NFKBIZ
+viral,CXCL2
+viral,LCN2
+viral,SOX4
+viral,HES1
+viral,CXCL1
+viral,TNFAIP3
+viral,SCGB1A1
+viral,CXCL8
+viral,NCOA7
+viral,RND3
+viral,DUSP1
+viral,CCN1
+viral,DDIT3
+viral,PIM3
+viral,RHOB
+viral,GDF15
+viral,EDN1
+viral,BPIFB1
+viral,MT-CO1
+viral,H3-3B
+viral,PPP1R15A
+viral,MUC5B
+viral,ZFP36
+viral,PLAU
+viral,RAB11FIP1
+viral,MACC1
+viral,C3
+viral,CCNL1
+viral,S-minus
+viral,SCGB3A1
+viral,CXCL3
+viral,GADD45B
+tuft,AZGP1
+tuft,STMN1
+tuft,NREP
+tuft,ANXA1
+tuft,SOX4
+tuft,HES6
+tuft,PTMA
+tuft,MARCKSL1
+tuft,H3-3A
+tuft,RASSF6
+tuft,LRMP
+tuft,TUBB
+tuft,KIT
+tuft,HSP90AB1
+tuft,PPP1R14B
+tuft,YBX1
+tuft,CRYM
+tuft,TUBA1A
+tuft,HSP90AA1
+tuft,RPL7A
+tuft,HMGB1
+tuft,ASCL2
+tuft,RPS2
+tuft,HNRNPAB
+tuft,TFF3
+tuft,RPS11
+tuft,HEPACAM2
+tuft,RAN
+tuft,PRDX2
+tuft,HNRNPA1
+tuft,RPL24
+tuft,EPCAM
+tuft,ANXA4
+tuft,HIPK2
+tuft,RPL6
+tuft,SMARCC1
+tuft,SNRPE
+tuft,HDAC2
+tuft,CBX3
+tuft,RPL5
+tuft,MYB
+tuft,POU2F3
+tuft,KRT18
+tuft,CCT5
+tuft,RPL21
+tuft,RPL14
+tuft,RPS19
+tuft,HSPA8
+tuft,XRCC5
+tuft,NPM1
